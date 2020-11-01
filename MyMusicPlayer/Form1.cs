@@ -67,7 +67,6 @@ namespace MyMusicPlayer
         }
 
 
-        
         /// <summary>
         /// This event handler allows adding elements to listbox
         /// </summary>
